@@ -11,9 +11,9 @@ build/
 *.swp
 .DS_Store
 .idea/
-.vscode/
 /node_modules/
 /dist/
 /build/
 
 issue.md
+config.bat
